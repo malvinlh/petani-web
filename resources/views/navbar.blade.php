@@ -19,6 +19,7 @@
             <div class="flex space-x-8">
                 <a href="{{ route('dashboard') }}" class="nav-link text-gray-800 font-semibold hover:text-black transition hover:underline">Beranda</a>
                 <a href="{{ route('belanja') }}" class="nav-link text-gray-800 font-semibold hover:text-black transition hover:underline">Belanja</a>
+                <a href="{{ route('cart') }}" class="nav-link text-gray-800 font-semibold hover:text-black transition hover:underline">Keranjang</a>
                 <a href="{{ route('cek_tanaman') }}" class="nav-link text-gray-800 font-semibold hover:text-black transition hover:underline">Cek Tanaman</a>
                 <a href="{{ route('chatbot') }}" class="nav-link text-gray-800 font-semibold hover:text-black transition hover:underline">Tanya Emilia</a>
             </div>
@@ -66,6 +67,7 @@
         <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
             <a href="{{ route('dashboard') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-black hover:bg-gray-100">Beranda</a>
             <a href="{{ route('belanja') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-black hover:bg-gray-100">Belanja</a>
+            <a href="{{ route('cart') }}" class="nav-link text-gray-800 font-semibold hover:text-black transition hover:underline">Keranjang</a>
             <a href="{{ route('cek_tanaman') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-black hover:bg-gray-100">Cek Tanaman</a>
             <a href="{{ route('chatbot') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-800 hover:text-black hover:bg-gray-100">Tanya Emilia</a>
         </div>

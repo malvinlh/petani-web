@@ -120,3 +120,5 @@ The Ask Emilia page provides users with access to a virtual assistant powered by
 ![Tanya Emilia Result](https://github.com/user-attachments/assets/3c40ee7d-31ba-45c4-b5fd-f88c0f4f4846)
 
 ---
+
+#### For further details, read the manual book [here](https://docs.google.com/document/d/1Vgj_hGGA0jAKgx_zHw142mhEWC41rxWn/edit?usp=sharing&ouid=112085663704906910779&rtpof=true&sd=true) (available in Indonesian).
